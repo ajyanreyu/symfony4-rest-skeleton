@@ -34,3 +34,4 @@
 ###Include:
 *  friendsofsymfony/rest-bundle (>=2.2)
 *  jms/serializer-bundle (>=2.0)
+*  nelmio/cors-bundle (1.5.4)
