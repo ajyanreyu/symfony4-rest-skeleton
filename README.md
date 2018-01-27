@@ -30,3 +30,6 @@
   * Write test cases in the _tests/_ folder
   * Run php bin/phpunit
 
+
+###Include:
+*  friendsofsymfony/rest-bundle (>=2.2)
