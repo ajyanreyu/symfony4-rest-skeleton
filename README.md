@@ -33,3 +33,4 @@
 
 ###Include:
 *  friendsofsymfony/rest-bundle (>=2.2)
+*  jms/serializer-bundle (>=2.0)
