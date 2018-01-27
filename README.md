@@ -1,7 +1,7 @@
 # Symfony v.4 Rest Skeleton
 
 
- ##__What's next?__
+ __What's next?__
 
 
   * Run your application:
@@ -12,10 +12,10 @@
        Quit the server with CTRL-C.
        Run composer require server --dev for a better web server.
 
-  * (Read the documentation)[https://symfony.com/doc]
+  * Read the documentation https://symfony.com/doc
 
 
- ##__Next: Configuration__
+ __Next: Configuration__
 
 
   * Modify your DATABASE_URL config in .env
@@ -24,7 +24,7 @@
     server_version (5.7) in _config/packages/doctrine.yaml_
 
 
- ##__How to test?__
+ __How to test?__
 
 
   * Write test cases in the _tests/_ folder
